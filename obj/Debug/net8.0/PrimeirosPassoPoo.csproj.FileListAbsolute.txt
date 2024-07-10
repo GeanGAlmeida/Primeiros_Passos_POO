@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\bin\Debug\net8.0\PrimeirosPassoPoo.exe
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\bin\Debug\net8.0\PrimeirosPassoPoo.deps.json
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\bin\Debug\net8.0\PrimeirosPassoPoo.runtimeconfig.json
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\bin\Debug\net8.0\PrimeirosPassoPoo.dll
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\bin\Debug\net8.0\PrimeirosPassoPoo.pdb
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.dll
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\refint\PrimeirosPassoPoo.dll
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.pdb
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\PrimeirosPassoPoo.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C#\PrimeirosPassoPoo\obj\Debug\net8.0\ref\PrimeirosPassoPoo.dll
